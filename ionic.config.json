@@ -1,0 +1,7 @@
+{
+  "name": "CordovaBackgroundlocationAppPoc",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
